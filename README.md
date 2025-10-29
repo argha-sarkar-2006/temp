@@ -33,6 +33,8 @@ Guess the future! This simple yet addictive game presents you with a random numb
 4. **Play Again**: Start a new game and keep the streak going!
 
 ## 📜 Smart Contract
+<img width="1276" height="978" alt="image" src="https://github.com/user-attachments/assets/f7debb3f-7e25-4b0b-a764-10972574f89e" />
 
 ```solidity
 //paste your code
+<img width="1276" height="978" alt="image" src="https://github.com/user-attachments/assets/f333b929-d0c9-46a4-9a4f-d49434a03b3e" />
