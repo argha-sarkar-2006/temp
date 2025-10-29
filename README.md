@@ -33,6 +33,9 @@ Guess the future! This simple yet addictive game presents you with a random numb
 4. **Play Again**: Start a new game and keep the streak going!
 
 ## 📜 Smart Contract
+https://celo-sepolia.blockscout.com/tx/0xb5f205b22ab9b91586e7462d22dd10843d4e779c1de416a7228a15b8c3d89430
+
+
 <img width="1276" height="978" alt="image" src="https://github.com/user-attachments/assets/f7debb3f-7e25-4b0b-a764-10972574f89e" />
 
 ```solidity
